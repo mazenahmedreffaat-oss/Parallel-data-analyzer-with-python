@@ -105,7 +105,6 @@ The analyzer supports any large tabular dataset. Recommended sources:
 
 - 🛒 E-commerce transactions
 - 💰 Financial / sales data
-- 🎬 Movie datasets
 - 📦 Inventory or logistics data
 
 > Datasets can be obtained from platforms such as [Kaggle](https://www.kaggle.com/datasets).
