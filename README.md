@@ -107,7 +107,7 @@ The analyzer supports any large tabular dataset. Recommended sources:
 - 💰 Financial / sales data
 - 📦 Inventory or logistics data
 
-> Datasets can be obtained from platforms such as [Kaggle](https://www.kaggle.com/datasets).
+> But we will work in this project with the Online Retail II UCI in Kaggle.
 
 ---
 
