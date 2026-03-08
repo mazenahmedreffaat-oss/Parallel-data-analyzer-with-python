@@ -132,13 +132,10 @@ Parallel processing reduces total execution time by distributing workload across
 
 ---
 
-## 🔮 Future Improvements
+## Additional Features if needed  
 
-- [ ] Add data visualization (Matplotlib / Plotly)
-- [ ] Support distributed processing (Apache Spark / Dask)
-- [ ] Integrate a web dashboard (Flask / FastAPI)
-- [ ] Add real-time data stream analysis
-
+- Add data visualization (Matplotlib / Plotly)
+- Integrate a web dashboard (Flask / FastAPI)
 ---
 
 ## ✅ Conclusion
