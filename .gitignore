@@ -1,0 +1,22 @@
+# Data files (too large for GitHub)
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Claude Code settings
+.claude/
+
+# Results (generated output)
+results/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
